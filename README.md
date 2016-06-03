@@ -22,4 +22,5 @@ Copy the hash and store that in your script.
 
 import pyPSec
 hash = 'N0ZETDVpRU0yYThrdmpsSnBnRlN2TlRYLLX+/CVXZwDBkzXML8eFwms='
+
 pyPSec.decrypt_('hash')
